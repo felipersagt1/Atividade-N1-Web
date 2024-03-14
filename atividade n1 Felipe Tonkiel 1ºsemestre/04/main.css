@@ -1,0 +1,50 @@
+.flex-container {
+    display: flex;
+    flex-direction: start
+  
+  }
+
+  .flex-end{
+    display: flex;
+    justify-content: end
+;
+  }
+
+  .center{
+    display: flex;
+    justify-content: center
+;
+  }
+
+  .space-between{
+    display: flex;
+    justify-content: space-between
+;
+  }
+
+  .space-around{
+    display: flex;
+    justify-content: space-around
+;
+  }
+
+  .space-evenly{
+    display: flex;
+    justify-content:  space-evenly
+;
+  }
+
+
+
+  .item {
+    margin: 5px;
+    background: tomato;
+    text-align: center;
+    font-size: 1.5em;
+  }
+
+  .corexemplo {background-color: grey;
+    text-align: center;
+    
+
+  }
